@@ -30,9 +30,7 @@
 
 ## Q&A
 
-  Q:为什么要做这么一个东西？
-  
-  A:单纯做着玩的。
+    Q:为什么要做这么一个东西？<br>A:单纯做着玩的。
 
   Q:程序报错 UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc5 in position 0: invalid continuation byte. 
   
